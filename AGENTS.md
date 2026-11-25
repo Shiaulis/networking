@@ -22,6 +22,7 @@ Tests/NetworkingTests/                Swift Testing suites (EndpointTests, Respo
   Helpers/                            MockNetworkConnectionProvider, OpenWeatherMapEndpoint
 .swiftformat                          SwiftFormat config (style authority)
 .github/workflows/ci.yml              CI workflow
+.coderabbit.yaml                      CodeRabbit PR review config (follows this file, SwiftLint off)
 ```
 
 ## Build, test, format
